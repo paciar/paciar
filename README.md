@@ -1,1 +1,1 @@
-welcom 2 my paeg :D
+welcom 2 mi paeg :D
