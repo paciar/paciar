@@ -8,6 +8,10 @@
 - Student Technician under Stony Brook University's Division of Information Technology (DoIT)
 - Undergraduate Teaching Assistant for CSE160/161 (Computer Science A: Honors)
 
+# Interests:
+
+- Currently interested in cybersecurity, systems programming, and web development.
+
 # Relevant Coursework:
 
 - Data Structures and Algorithms: Honors (CSE260/261)
