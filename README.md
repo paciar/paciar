@@ -1,6 +1,6 @@
 # About Me
 
-- Second-year Stony Brook University student pursuing a Bachelor of Science in Computer Science.
+- Rising third-year Stony Brook University student pursuing a Bachelor of Science in Computer Science.
 - Currently part of the Computer Science Honors Program @ SBU, and planning to double major in Applied Mathematics and Statistics.
 
 # As of Spring 2024
