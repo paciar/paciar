@@ -1,12 +1,13 @@
 # About Me
 
-- Rising third-year Stony Brook University student pursuing a Bachelor of Science in Computer Science.
-- Currently part of the Computer Science Honors Program @ SBU, and planning to double major in Applied Mathematics and Statistics.
+- Third-year Stony Brook University student pursuing a B.S. in Computer Science and Applied Math & Statistics.
+- Currently part of the Computer Science Honors Program @ SBU.
+- Student Technician under the SBU Division of Information Technology (DoIT).
 
-# As of Spring 2024
+# As of Fall 2024
 
-- Student Technician under Stony Brook University's Division of Information Technology (DoIT)
-- Undergraduate Teaching Assistant for CSE160/161 (Computer Science A: Honors)
+- Applying to internships and SBU's Accelerated BS/MS program in Computer Science.
+- Part of the SBU DoIT development team, which maintains internal QOL scripts/applications for our daily operations.
 
 # Interests
 
@@ -15,11 +16,12 @@
 # Relevant Coursework
 
 - Data Structures and Algorithms: Honors (CSE260/261)
-- Systems Fundamentals I (CSE220)
+- Systems Fundamentals I/II (CSE220/320)
 - Fundamentals of Software Development (CSE316)
 - Analysis of Algorithms: Honors (CSE385)
 - Finite Mathematical Structures (AMS301)
 - Survey of Statistics and Probability (AMS310)
+- Computational Geometry (AMS345/CSE355)
 
 # Technical Skills
 
@@ -29,4 +31,4 @@
 - Operating Systems: Linux (Ubuntu), Windows 10/11, MacOS
 - Additional Software: LaTeX, Microsoft Office, Google Suite
 
-Last updated: 3/31/2024
+Last updated: 12/27/2024
